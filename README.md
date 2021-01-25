@@ -1,8 +1,7 @@
 # Snapchat Clone App UI
 
-## Download App Demo APK
+## Download App Demo APK (https://drive.google.com/file/d/1BPHq9eYSgUYlQgumZhAg9Wnhok8AOKJw/view)
 
-- [APK](https://drive.google.com/file/d/1BPHq9eYSgUYlQgumZhAg9Wnhok8AOKJw/view)
 
 - [Support me on Patreon](https://www.patreon.com/sopheamenvan?fan_landing=true)
 - [Watch on youtube Part I](https://youtu.be/zCaNaKRXTbE)
