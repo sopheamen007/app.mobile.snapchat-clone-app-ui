@@ -12,27 +12,25 @@ class RootApp extends StatefulWidget {
   _RootAppState createState() => _RootAppState();
 }
 
-class _RootAppState extends State<RootApp> with SingleTickerProviderStateMixin {
+class _RootAppState extends State<RootApp> {
   int pageIndex = 0;
   List<Widget> pages = [
     MapPage(),
-    // ChatPage(),
-    CameraPage(),
     ChatPage(),
+    CameraPage(),
+    // ChatPage(),
     StoriesPage(),
     DiscoverPage()
   ];
-  TabController _tabController;
+
   @override
   void initState() {
     // TODO: implement initState
     super.initState();
-    _tabController = TabController(vsync: this, length: pages.length);
   }
 
   @override
   void dispose() {
-    _tabController.dispose();
     super.dispose();
   }
 
