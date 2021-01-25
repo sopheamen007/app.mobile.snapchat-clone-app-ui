@@ -16,9 +16,9 @@ class _RootAppState extends State<RootApp> with SingleTickerProviderStateMixin {
   int pageIndex = 0;
   List<Widget> pages = [
     MapPage(),
-    ChatPage(),
-    CameraPage(),
     // ChatPage(),
+    CameraPage(),
+    ChatPage(),
     StoriesPage(),
     DiscoverPage()
   ];
