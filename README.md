@@ -2,8 +2,10 @@
 
 - [Support me on Patreon](https://www.patreon.com/sopheamenvan?fan_landing=true)
 - [Watch on youtube Part I](https://youtu.be/zCaNaKRXTbE)
+- [Watch on youtube Part II](https://youtu.be/CYXKl58iTmA)
 
 ![App UI](https://user-images.githubusercontent.com/16510597/105662741-13ffbd80-5f03-11eb-95f6-0f0e61772536.jpg)
+![App UI](https://user-images.githubusercontent.com/16510597/105664750-03057b00-5f08-11eb-9be0-e07954f4e972.jpg)
 
 A new Flutter project.
 
