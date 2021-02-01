@@ -6,6 +6,9 @@
 - [Support me on Patreon](https://www.patreon.com/sopheamenvan?fan_landing=true)
 - [Watch on youtube Part I](https://youtu.be/zCaNaKRXTbE)
 - [Watch on youtube Part II](https://youtu.be/CYXKl58iTmA)
+- [Watch on youtube Part III](https://youtu.be/YwU0TsjGvgE)
+- [Watch on youtube Part IV](https://youtu.be/uHFNhZejD_Y)
+- [Watch on youtube Part V](https://youtu.be/Zz7-lP9l7gc)
 
 ![App UI](https://user-images.githubusercontent.com/16510597/105662741-13ffbd80-5f03-11eb-95f6-0f0e61772536.jpg)
 
